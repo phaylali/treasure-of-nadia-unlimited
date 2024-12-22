@@ -1,0 +1,16 @@
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\bin\Debug\net8.0-windows\autoclicker.exe
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\bin\Debug\net8.0-windows\autoclicker.deps.json
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\bin\Debug\net8.0-windows\autoclicker.runtimeconfig.json
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\bin\Debug\net8.0-windows\autoclicker.dll
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\bin\Debug\net8.0-windows\autoclicker.pdb
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.Form1.resources
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.csproj.GenerateResource.cache
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.AssemblyInfoInputs.cache
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.AssemblyInfo.cs
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.dll
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\refint\autoclicker.dll
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.pdb
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\autoclicker.genruntimeconfig.cache
+C:\Users\phaylali\source\repos\autoclicker\autoclicker\obj\Debug\net8.0-windows\ref\autoclicker.dll

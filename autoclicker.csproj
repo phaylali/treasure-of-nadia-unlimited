@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+
+		<!-- General Assembly Information -->
+		<AssemblyTitle>Treasure of Nadia Unlimited Money</AssemblyTitle>
+		<AssemblyDescription>Treasure of Nadia Unlimited Money, safe application, doesn't change any game file</AssemblyDescription>
+		<AssemblyCompany></AssemblyCompany>
+		<AssemblyProduct>Treasure of Nadia Unlimited Money</AssemblyProduct>
+		<AssemblyCopyright>Omniversify © 2024</AssemblyCopyright>
+		<AssemblyTrademark></AssemblyTrademark>
+		<AssemblyCulture></AssemblyCulture>
+
+		<!-- COM Visibility -->
+		<ComVisible>false</ComVisible>
+
+		<!-- Version Information -->
+		<Version>1.0.0.0</Version>
+		<FileVersion>1.0.0.0</FileVersion>
+		
+
+		<!-- Icon for Application -->
+		<ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
+
+		<PublishSingleFile>true</PublishSingleFile>
+		<IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+	</PropertyGroup>
+
+	<!-- GUID for COM -->
+	<ItemGroup>
+		<Guid Include="your-guid-here" />
+	</ItemGroup>
+
+</Project>

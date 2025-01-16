@@ -74,3 +74,4 @@ If you encounter any issues, open an [issue](https://github.com/phaylali/treasur
 
 
 
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://donate.unrwa.org/-landing-page/en_EN)
